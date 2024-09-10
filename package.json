@@ -1,0 +1,14 @@
+{
+  "name": "fine-tune-and-test-personality",
+  "version": "1.0.0",
+  "main": "generateDataForFineTining.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "openai": "^4.58.2"
+  }
+}
